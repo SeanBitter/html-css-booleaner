@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-image: url("../img/pattern.png");
+    background-color: rgb(73, 158, 220);
+    background-repeat: repeat;
+    height: 175px;
+}
+
+header img {
+    height: 70%;
+}
+
+thead {
+    background-color: rgb(60, 100, 220);
+    color: white;
+}
+
+#author {
+    color: rgb(33, 92, 158);
+}
+
+.title {
+    font-size: 35px;
+}
+
+.subtitle {
+    color: grey;
+}
+
+.row-special {
+    background-color: rgb(8, 178, 220);
+}
