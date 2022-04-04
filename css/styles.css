@@ -18,16 +18,36 @@ thead {
     color: white;
 }
 
-#author {
-    color: rgb(33, 92, 158);
+footer p {
+    color: grey;
 }
 
-.title {
+footer .bottom-1 {
+    background-image: url("../img/monitor.jpg");
+    background-size: cover;
+    color: white;
+    height: 200px;
+    width: 300px;
+}
+
+footer .bottom-2 {
+    background-image: url("../img/graph.jpg");
+    background-size: cover;
+    color: white;
+    height: 200px;
+    width: 300px;
+}
+
+section .title {
     font-size: 35px;
 }
 
-.subtitle {
+section .subtitle {
     color: grey;
+}
+
+#author {
+    color: rgb(33, 92, 158);
 }
 
 .row-special {
